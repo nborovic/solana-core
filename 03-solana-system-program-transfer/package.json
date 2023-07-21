@@ -1,0 +1,19 @@
+{
+  "name": "02-solana-system-program-transfer",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/web3.js": "^1.78.0",
+    "@types/node": "^20.4.2",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.1",
+    "ts-node": "^10.9.1"
+  }
+}
