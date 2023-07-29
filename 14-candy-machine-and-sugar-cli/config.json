@@ -1,0 +1,39 @@
+{
+  "tokenStandard": "nft",
+  "number": 10,
+  "price": 10,
+  "splTokenAccount": "Es5985T3WYSRNdfSy3N7nAiiyRXnGL3xSfKWGwuy2sjC",
+  "splToken": "28C38BKR4W2efeME83rLZjoazeU9qNagqeG1ohSPZmPi",
+  "symbol": "CRAB",
+  "sellerFeeBasisPoints": 100,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "HgoocFdUu8QM6rjajeakvbPi6HfSoVb9PjbfzQT5ecR8",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null,
+  "maxEditionSupply": null,
+  "goLiveDate": "11 Aug 2023 18:19:16 +0000",
+  "gatekeeper": {
+    "network": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+    "expireOnUse": false
+  },
+  "whitelistMintSettings": {
+    "mode": {
+      "burnEveryTime": true
+    },
+    "mint": "juYxKRuXYEUAHGAvyyTWnwtcczrH1ZxqG7M1s9Eyrwd",
+    "presale": true,
+    "discountPrice": 5
+  }
+}
